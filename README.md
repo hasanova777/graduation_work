@@ -1,5 +1,7 @@
 ### To open the project, you need to download the Houdini program. Houdini is an advanced software for creating computer graphics, animation and visual effects. This project contains algorithms for automating processes for implementing historical reconstructions.
 
+_____
+
 **To run the algorithms, you need to do the following:**
 * *Select the Manual mode*
 * *In the file node, specify the path to the 3D models*
